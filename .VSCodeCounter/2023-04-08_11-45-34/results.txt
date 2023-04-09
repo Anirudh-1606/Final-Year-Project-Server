@@ -1,0 +1,57 @@
+Date : 2023-04-08 11:45:34
+Directory : c:\Users\Eswar\Desktop\Final\Backend-Final
+Total : 24 files,  3536 codes, 30 comments, 148 blanks, all 3714 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          2 |      2,709 |          0 |          2 |      2,711 |
+| JavaScript |         20 |        818 |         30 |        143 |        991 |
+| Markdown   |          1 |          8 |          0 |          3 |         11 |
+| Properties |          1 |          1 |          0 |          0 |          1 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                            | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                               |         24 |      3,536 |         30 |        148 |      3,714 |
+| . (Files)                                                                       |          5 |      2,750 |          5 |          9 |      2,764 |
+| controllers                                                                     |          5 |        390 |          6 |         50 |        446 |
+| middlewares                                                                     |          1 |         27 |          0 |          8 |         35 |
+| models                                                                          |          4 |        168 |          0 |         17 |        185 |
+| routes                                                                          |          5 |         54 |         19 |         33 |        106 |
+| services                                                                        |          4 |        147 |          0 |         31 |        178 |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                        | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Eswar\Desktop\Final\Backend-Final\.env                                 | Properties |          1 |          0 |          0 |          1 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\README.md                            | Markdown   |          8 |          0 |          3 |         11 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\controllers\authController.js        | JavaScript |         66 |          6 |         17 |         89 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\controllers\userController.js        | JavaScript |         56 |          0 |          8 |         64 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\controllers\workController.js        | JavaScript |         89 |          0 |          9 |         98 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\controllers\workExpenseController.js | JavaScript |        102 |          0 |          8 |        110 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\controllers\workerController.js      | JavaScript |         77 |          0 |          8 |         85 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\index.js                             | JavaScript |         32 |          5 |          4 |         41 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\middlewares\authMiddleware.js        | JavaScript |         27 |          0 |          8 |         35 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\models\userModel.js                  | JavaScript |         51 |          0 |          5 |         56 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\models\workExpenseModel.js           | JavaScript |         31 |          0 |          4 |         35 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\models\workModel.js                  | JavaScript |         64 |          0 |          4 |         68 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\models\workerModel.js                | JavaScript |         22 |          0 |          4 |         26 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\package-lock.json                    | JSON       |      2,680 |          0 |          1 |      2,681 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\package.json                         | JSON       |         29 |          0 |          1 |         30 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\routes\authRoutes.js                 | JavaScript |          6 |          0 |          4 |         10 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\routes\userRoutes.js                 | JavaScript |         10 |          0 |          4 |         14 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\routes\workExpenseRoutes.js          | JavaScript |         15 |          6 |          8 |         29 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\routes\workRoutes.js                 | JavaScript |         12 |          7 |          9 |         28 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\routes\workerRoutes.js               | JavaScript |         11 |          6 |          8 |         25 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\services\userService.js              | JavaScript |         57 |          0 |          7 |         64 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\services\workExpenseService.js       | JavaScript |         30 |          0 |          8 |         38 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\services\workService.js              | JavaScript |         32 |          0 |          8 |         40 |
+| c:\Users\Eswar\Desktop\Final\Backend-Final\services\workerService.js            | JavaScript |         28 |          0 |          8 |         36 |
+| Total                                                                           |            |      3,536 |         30 |        148 |      3,714 |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
